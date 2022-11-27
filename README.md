@@ -1,6 +1,6 @@
 
 
-# 🔥FluCommerce - A Flutter Ecommerce Application - Flutter UI🔥
+# 🔥FluCommerce - A Flutter Ecommerce Application - UI🔥
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@manishdayma22-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manishdayma22)](https://twitter.com/manishdayma22)
@@ -108,4 +108,4 @@ Resolve the errors and warnings that are shown in the application.
     
 ### Support
 
-If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+<a href="https://www.buymeacoffee.com/manishdayma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50"></a>
