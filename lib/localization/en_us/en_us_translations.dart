@@ -1,0 +1,33 @@
+final Map<String, String> enUs = {
+  'msg_network_err': 'Network Error',
+  'msg_something_went_wrong': 'Something Went Wrong!',
+  "lbl_84_97": "\$84.97",
+  "msg_nike_air_max_pl": "Nike Air Max Plus",
+  "msg_explore_collec": "Explore \nCollections",
+  "msg_nike_air_max_pr": "Nike Air Max Pre-Day",
+  "lbl_kids": "KIds",
+  "lbl_4_5": "4.5",
+  "lbl_app_navigation": "App Navigation",
+  "lbl_4_8": "4.8",
+  "msg_nike_waffle_deb": "Nike Waffle Debut",
+  "lbl_all": "All",
+  "lbl_5_0": "5.0",
+  "lbl_women": "Women",
+  "lbl_75": "\$75",
+  "msg_check_your_app":
+      "Check your app's UI from the below demo screens of your app.",
+  "lbl_get_started": "Get Started",
+  "lbl_splash_screen": "Splash Screen",
+  "msg_product_listing": "Product Listing Page",
+  "msg_product_details": "Product Details Page",
+  "lbl_just_do_it": "just do it.",
+  "lbl_nike_metcon_7": "Nike Metcon 7",
+  "lbl_buy_now": "Buy Now",
+  "lbl_read_more": "Read more",
+  "lbl_106_97": "\$106.97",
+  "lbl_men": "Men",
+  "msg_the_nike_metcon":
+      "The Nike Metcon 7 is the gold standard for weight training—even tougher and more stable than previous versions...",
+  "lbl_175": "\$175",
+  "lbl_women_s_shoes": "Women’s Shoes"
+};
